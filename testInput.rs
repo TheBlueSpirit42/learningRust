@@ -6,5 +6,5 @@ fn main() {
     for line in stdin.lock().lines() {
         println!("{}", line.unwrap());
     }
-     // println!("Test Code");
+      println!("Test Code");
 }
